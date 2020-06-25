@@ -1,2 +1,2 @@
 # surveyex
-R Package for survey experiment
+R Package for survey experiments
