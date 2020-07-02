@@ -1,2 +1,2 @@
 # surveyex
-R Package for survey experiments
+R Package for survey experiments, July 2020
